@@ -677,6 +677,7 @@ GPU Rendering
 
 Window Server
 -------------
+Windows Server acts as a central hub, providing essential services, managing resources, and enforcing security policies for a network. Its core functionalities make it a versatile platform for businesses of all sizes to build and manage their IT infrastructure.
 
 Post-rendering and user-induced execution
 -----------------------------------------
